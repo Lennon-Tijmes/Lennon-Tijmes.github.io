@@ -40,13 +40,13 @@ nav a {
     margin-top: 5rem;
     margin-left: 5rem;
     margin-right: 5rem;
+    justify-content: space-evenly;
 }
 
 .Subjects {
     display: flex;
     gap: 10rem;
     flex-wrap: wrap;
-    justify-content: space-evenly;
 }
 
 .Subject_Box {
